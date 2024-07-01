@@ -35,7 +35,7 @@ This repository contains a simple image encryption tool that provides two method
 
 1. **Run the script**:
     ```bash
-    python image_encryption_tool.py
+    python task2.py
     ```
 
 2. **Follow the prompts**:
